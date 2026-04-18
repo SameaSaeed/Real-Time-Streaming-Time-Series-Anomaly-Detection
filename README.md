@@ -86,7 +86,7 @@ docker compose up --build
 - **Kibana**: http://localhost:5601 (create index pattern: `anomalies`)
 - **Logs**: `docker-compose logs -f streaming`
 
-<img width="300" height="305" alt="spark_ui" src="https://github.com/user-attachments/assets/57ad55c5-3881-437c-8367-5587005dda6c" />
+<img width="700" height="305" alt="spark_ui" src="https://github.com/user-attachments/assets/57ad55c5-3881-437c-8367-5587005dda6c" />
 
 <img width="376" height="378" alt="api" src="https://github.com/user-attachments/assets/e7af4270-fee2-464c-9e9d-1f08094beba0" />
 

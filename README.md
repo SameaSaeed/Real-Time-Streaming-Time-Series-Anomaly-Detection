@@ -86,13 +86,13 @@ docker compose up --build
 - **Kibana**: http://localhost:5601 (create index pattern: `anomalies`)
 - **Logs**: `docker-compose logs -f streaming`
 
-![alt text](spark_ui-1.png)
+<img width="300" height="305" alt="spark_ui" src="https://github.com/user-attachments/assets/57ad55c5-3881-437c-8367-5587005dda6c" />
 
-![alt text](api.png)
+<img width="376" height="378" alt="api" src="https://github.com/user-attachments/assets/e7af4270-fee2-464c-9e9d-1f08094beba0" />
 
-![alt text](elastic_search.png)
+<img width="257" height="139" alt="elastic_search" src="https://github.com/user-attachments/assets/e1991035-b44f-4822-84a9-045232036864" />
 
-![alt text](kibana.png)
+<img width="955" height="406" alt="kibana" src="https://github.com/user-attachments/assets/e7b573de-283e-462d-9efc-a193c49aa0f6" />
 
 
 ## Stop Pipeline
